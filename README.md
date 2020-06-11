@@ -1,1 +1,1 @@
-# blazor-wasm-demo
+# Blazor WASM Demo
